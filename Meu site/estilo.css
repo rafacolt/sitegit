@@ -1,0 +1,49 @@
+.direita{
+  margin-left: auto;
+}
+.foto-perfil{
+  border-radius: 50%;
+}
+.perfil{
+  background-color: #CEE5D0;
+  text-align: center;
+  padding-top: 200px;
+  margin: 0 auto;
+  padding-bottom: 200px;
+}
+.paragraph{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.foto-ingles{
+  border-radius: 50%;
+}
+.foto-web{
+  border-radius: 50%;
+}
+.foto-hardware{
+  border-radius: 50%;
+}
+.skills{
+  background-color: #C1CFC0;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+.title{
+  padding-bottom: 30px;
+}
+.contact-bottom{
+  text-align: center;
+}
+.rodape{
+  background-color: black;
+  padding: 30px;
+  text-align: center;
+  margin-top: 30px;
+  color: white;
+}
+.fixo{
+  position: fixed;
+}
